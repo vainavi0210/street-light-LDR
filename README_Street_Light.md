@@ -1,4 +1,4 @@
-# street-light-LDR# Street Light Using LDR
+# Automatic Street Light Using LDR
 
 ## Description
 This project automatically controls an LED using an LDR.
