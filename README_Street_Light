@@ -15,6 +15,7 @@ The LED turns ON in darkness and turns OFF when there is sufficient light.
 
 ## Project Setup
 The components were connected on a breadboard using the required components.
+
 ![Project Setup](project-setup-jpg.jpg)
 
 ## Procedure
