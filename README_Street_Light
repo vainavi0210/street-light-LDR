@@ -15,8 +15,7 @@ The LED turns ON in darkness and turns OFF when there is sufficient light.
 
 ## Project Setup
 The components were connected on a breadboard using the required components.
-
-![Project Setup](Glowing%20LED%20using%20LDR.jpeg)
+![Project Setup](project-setup.jpg)
 
 ## Procedure
 1. Connected the components on the breadboard.
